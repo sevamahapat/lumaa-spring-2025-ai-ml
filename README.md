@@ -51,3 +51,8 @@ Top Recommendations:
 4. Blow Out (Score: 0.1532)
 5. Dragon Blade (Score: 0.1381)
 ```
+
+### Code Demo
+[Video Link](https://drive.google.com/file/d/176SN8bvup2buz8fszoS1d8aLqajs47pP/view?usp=sharing)
+
+##### Salary expectations for AI/ML Intern role: $30/hr
