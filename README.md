@@ -9,7 +9,8 @@ This project uses the **TMDB 5000 Movie Dataset**, which is available on Kaggle:
 ### Steps to Load the Dataset:
 
 1. Download the dataset from Kaggle.
-2. Place the following CSV files in the same directory as the script:
+2. Extract the downloaded zip folder.
+3. Place the `tmdb` folder which contains the following CSV files in the same directory as the script:
    - `tmdb_5000_movies.csv`
    - `tmdb_5000_credits.csv`
 
@@ -19,21 +20,6 @@ This project uses the **TMDB 5000 Movie Dataset**, which is available on Kaggle:
 
 - Python 3.7+
 - Required libraries: `numpy`, `pandas`, `scikit-learn`
-
-### Installation Steps:
-
-1. Create a virtual environment (optional but recommended):
-
-   ```bash
-   python -m venv env
-   source env/bin/activate  # On Windows use: env\Scripts\activate
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Running the Code
 
